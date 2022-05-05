@@ -884,7 +884,7 @@ def get_company_data():
         "type": None,
         "web_technologies": "microsoft_exchange_online;microsoft_office_365;nginx;hotjar;wordpress;go_squared;google_analytics;outlook",
         "website": "softarch.no",
-        "zip": null
+        "zip": None
       },
       "updatedAt": "2022-05-04T20:40:57.447Z"
     }]
